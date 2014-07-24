@@ -1,0 +1,48 @@
+.column-btn{
+	width:130px;
+}
+.source-btm{
+	width:195px;
+}
+.btn-title{
+	float:left;
+}
+.search-nav{
+	margin-right:15px;
+}
+
+#sidebar .btn-group{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#sidebar .label {
+	margin-top: 4px;
+}
+
+.badge-warning{
+	margin-left: 5px;
+	background-color: #DA3939;
+}
+
+.btn-gly {
+	height: 25px;
+	background-color: blue;
+}
+.glyphicon{
+
+	color: #ffffff;
+}
+.hidden-panel{
+	border-style: none;
+}
+.btn-blue{
+	border-style: none;
+	margin-left: 20px;
+}
+
+.btn-content{
+	border-style: none;
+	width: 140px;
+	height: 50px;
+}
