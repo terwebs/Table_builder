@@ -24,13 +24,16 @@
 	margin-left: 5px;
 	background-color: #DA3939;
 }
-
+.panel-heading{
+	height: 55px;
+}
+.heading-title{
+	font-size: 25px;
+}
 .btn-gly {
-	height: 25px;
-	background-color: blue;
+	background-color: #1880CB;
 }
 .glyphicon{
-
 	color: #ffffff;
 }
 .hidden-panel{
